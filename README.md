@@ -1,1 +1,1 @@
-Solution for problems solved in codesprint 2
+My codes for various International Coding Competitions
